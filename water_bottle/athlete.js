@@ -1,4 +1,4 @@
-var bottle = require('../water_bottle.js')
+var bottle = require('./water_bottle');
 
 var athlete = {
   distance: 0,
